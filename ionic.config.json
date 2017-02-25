@@ -1,6 +1,6 @@
 {
-  "name": "StarterFirebasePackV2",
-  "app_id": "",
+  "name": "AuthApp",
+  "app_id": "29c51852",
   "v2": true,
   "typescript": true
 }
